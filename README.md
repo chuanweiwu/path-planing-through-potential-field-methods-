@@ -1,1 +1,1 @@
-# path-planing-through-potential-field-methods-
+# Demostrate the potential field methods through matlab code.
